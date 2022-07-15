@@ -1,0 +1,1 @@
+execute as @a[tag=!supporium,nbt={SelectedItem:{id:"minecraft:carrot_on_a_stick",tag:{CustomModelData:5}}}] at @s run tag @s add supporium

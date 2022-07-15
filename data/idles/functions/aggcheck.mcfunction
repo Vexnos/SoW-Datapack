@@ -1,0 +1,2 @@
+execute as @a[tag=!aggressium,nbt={SelectedItem:{id:"minecraft:carrot_on_a_stick",tag:{CustomModelData:2}}}] at @s run playsound songs:aggressium master @a ~ ~ ~ 100 1
+schedule function idles:aggtagadd 1t

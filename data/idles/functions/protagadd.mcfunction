@@ -1,0 +1,1 @@
+execute as @a[tag=!protisium,nbt={SelectedItem:{id:"minecraft:carrot_on_a_stick",tag:{CustomModelData:4}}}] at @s run tag @s add protisium

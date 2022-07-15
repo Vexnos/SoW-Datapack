@@ -1,0 +1,1 @@
+execute as @a[tag=!mobilium,nbt={SelectedItem:{id:"minecraft:carrot_on_a_stick",tag:{CustomModelData:3}}}] at @s run tag @s add mobilium

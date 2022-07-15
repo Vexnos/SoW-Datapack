@@ -1,0 +1,2 @@
+execute as @a[tag=!protisium,nbt={SelectedItem:{id:"minecraft:carrot_on_a_stick",tag:{CustomModelData:4}}}] at @s run playsound songs:protisium master @a ~ ~ ~ 100 1
+schedule function idles:protagadd 1t

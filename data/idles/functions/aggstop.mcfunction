@@ -1,0 +1,1 @@
+execute as @a[nbt=!{SelectedItem:{id:"minecraft:carrot_on_a_stick",tag:{CustomModelData:2}}}] run stopsound @s * songs:aggressium

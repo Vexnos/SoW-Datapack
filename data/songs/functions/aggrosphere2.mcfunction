@@ -1,0 +1,1 @@
+execute at Vexnos run playsound songs:aggrosphere2 master @a ~ ~ ~ 100 1

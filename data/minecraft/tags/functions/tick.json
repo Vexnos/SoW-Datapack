@@ -1,0 +1,4 @@
+{
+    "replace": false,
+    "values": ["idles:aggcheck", "idles:aggtagremove", "idles:aggstop", "idles:mobcheck", "idles:mobtagremove", "idles:mobstop", "idles:procheck", "idles:protagremove", "idles:prostop", "idles:supcheck", "idles:suptagremove", "idles:supstop"]
+}
