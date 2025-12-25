@@ -1,2 +1,2 @@
 playsound beacon:beaconteleport master @a[tag=travelling]
-schedule function beacon:meridianmiddle 9s
+schedule function sow:beacon/meridianmiddle 9s
