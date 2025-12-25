@@ -1,0 +1,1 @@
+execute at Vexnos run playsound songs:protebarrier master @a ~ ~ ~ 100 1

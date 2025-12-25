@@ -1,0 +1,1 @@
+execute at Vexnos run playsound songs:supporekesis master @a ~ ~ ~ 100 1
